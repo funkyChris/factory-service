@@ -8,7 +8,7 @@
 	<parent>
 		<artifactId>factory-parent</artifactId>
 		<groupId>org.qualipso</groupId>
-		<version>0.5-SNAPSHOT</version>
+		<version>0.5</version>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.qualipso</groupId>
@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>org.qualipso</groupId>
 			<artifactId>factory-core</artifactId>
-			<version>0.3.2</version>
+			<version>0.3.3</version>
 			<type>ejb</type>
 		</dependency>
 	</dependencies>
